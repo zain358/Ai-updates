@@ -1,0 +1,7 @@
+{
+    "version": "2.1.5",
+    "releaseDate": "2025-07-06",
+    "changes": ["Added auto-update feature"],
+    "downloadUrl": "https://raw.githubusercontent.com/YOURUSERNAME/YOUR-REPO/main/updates/v2.1.5.js",
+    "checksum": "sha256-7a7e010eb37c7f3d1501b92a2b04c149bec1d48cd4b18f1e919fc56c919316e0"
+}
